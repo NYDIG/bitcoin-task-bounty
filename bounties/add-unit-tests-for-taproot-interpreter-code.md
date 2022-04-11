@@ -3,6 +3,6 @@
 ## Status
 Checked Out
 
-
 ## Discussion
-- This task check out is "tentative" as I'm waiting for answers to an email I sent to `bitcoin@nydig.com`.  After getting the answers I'll either submit an updated PR (removing this discussion) or ... cancel the PR.
+Refers to ["Add unit tests for Taproot code in src/script/interpreter.cpp"](https://github.com/bitcoin/bitcoin/issues/23279)
+
