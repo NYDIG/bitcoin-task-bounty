@@ -1,9 +1,11 @@
 # makeseeds-py-improvements
 
 ## Status
-Completed
+Available
 
-## Commit
+## Previous work (doing 3 of the existing tasks)
+
+## Commit 
 [7da4f65a00a8d96da2119de613ed7fbee2a28a0d](https://github.com/bitcoin/bitcoin/commit/7da4f65a00a8d96da2119de613ed7fbee2a28a0d)
 
 ## Additional Info
