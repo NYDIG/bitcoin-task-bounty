@@ -1,4 +1,8 @@
 # LND SQLite Storage Backend
 
 ## Status
-Checked out
+Not Available
+
+## Discussion
+
+Marking not available given length of check out

@@ -1,4 +1,4 @@
 # LND HTLC Interceptor Height Watching
 
 ## Status
-Available
+Not Available
